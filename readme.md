@@ -10,4 +10,19 @@ El siguiente proyecto esta realizado en una aplicación de escritorio en Visual 
 
 Se adjuntara el dump y los querys utilizados en el proyecto como tambien la solucion de Visual Studio 2019
 
-##### Realizado por [Santiago Lopez](https://santiagolopez.me)
+## Menu Principal
+
+![Menu Principal](/Capture/Menu.PNG)
+
+## CRUD Categorias
+
+![CRUD Categorias](/Capture/Categorias.PNG)
+
+## Reportes
+
+![Reporte General](/Capture/Reportegeneral.PNG)
+![Reporte 1](/Capture/Reporte1.PNG)
+![Reporte 2](/Capture/Reporte2.PNG)
+![Reporte 3](/Capture/Reporte3.PNG)
+
+#### Realizado por [Santiago Lopez](https://santiagolopez.me)
